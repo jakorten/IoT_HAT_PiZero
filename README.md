@@ -8,6 +8,8 @@ Leuk zo'n Raspberry Pi Zero van i&i, maar hoe doe je er nu IoT mee?!
 LoRa, ZigBee, WiFi, Bluetooth Low Energy?
 Eigenlijk wilde ik het zo universeel mogelijk maken, door er een XBee header op te plaatsen kun je gewoon kiezen welke module je wilt gebruiken.
 
+https://github.com/jakorten/IoT_HAT_PiZero/blob/master/Hardware/XbeeHAT_V1.0b.png
+
 N.b. Deze HAT werd geïnspireerd door: https://sixfab.com/product/xbee-shield/ die is al meer uit ontwikkeld en gewoon te koop.
 
 ### Over die HAT
