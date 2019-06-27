@@ -18,6 +18,7 @@ Dat is mooi, maar ik heb gewoon een voorraad van die XBee Explorers liggen en wi
 - Het idee van direct met USB verbinden met de XBee module leek me echter wel een goed idee dus ik heb de selectie Pi/USB wel aangehouden.
 - Er zit ook een NeoPixel LED op de HAT die je vanaf je Pi aan kunt sturen.
 - Daarnaast een Vochtigheids/Temperatuur sensor via i2c én een i2c header voor evt andere sensor.
+- Een flash geheugen chip want anders mag het geen HAT genoemd worden.
 
 N.b. Dit is natuurlijk eerste versie dus ws. moet ik er nog aan sleutelen en het zal even duren voor ik de printjes van deze versie uit China binnen heb en gesoldeerd heb. Laat gerust weten als je interesse hebt. Dit is niet mijn eerste HAT die ik maak, ik heb o.a. weerstation HAT's, aansturingen voor tuinberegening, etc. daarnaast 'uiteraard' voor mijn reanimatie simulator.
 
