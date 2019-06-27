@@ -10,7 +10,7 @@ Eigenlijk wilde ik het zo universeel mogelijk maken, door er een XBee header op 
 
 ![IoT Hat for Pi Image](Hardware/XbeeHAT_V1.0b.png)
 
-N.b. Deze HAT werd geïnspireerd door: https://sixfab.com/product/xbee-shield/ die is al meer uit ontwikkeld en gewoon te koop.
+N.b. Deze HAT werd geïnspireerd door: https://sixfab.com/product/xbee-shield/ welke is al meer uit ontwikkeld / te koop is.
 
 ### Over die HAT
 Die originele HAT is in feite een https://www.sparkfun.com/products/11812 maar dan in HAT vorm.
